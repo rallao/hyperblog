@@ -2,3 +2,5 @@ Hola, Sory rallao
 
 Tengo 29 años y estoy aprnediendo a usar git.
 
+esta es otra actualizacion de mi version.
+
